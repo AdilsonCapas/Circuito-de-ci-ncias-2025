@@ -1,3 +1,8 @@
+## 📥 Download
+
+[Baixar APK](https://drive.google.com/drive/folders/1YPRtZrFAhWwjGZCqApTrWTV5EGy_8m5m)
+
+
 # 💧 Jogo Educativo de Análise de pH da Água
 Projeto desenvolvido utilizando a Unity com foco em educação ambiental, voltado à análise da qualidade da água por meio de mecânicas interativas.
 🎯 Objetivo
